@@ -1,0 +1,15 @@
+.nav-menu li {
+  position: relative !important;
+}
+
+.nav-menu li hr {
+  position: absolute;
+  bottom: -4px; /* Adjust this value as needed */
+  left: 0;
+  right: 0;
+  border: none;
+  width: 80%;
+  height: 3px;
+  border-radius: 10px;
+  background: #f03333 !important;
+}
